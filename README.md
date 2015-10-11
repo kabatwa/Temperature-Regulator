@@ -6,3 +6,4 @@ Parts list
 * TI1P20
 * Potentiometer
 * 594 BC 1146
+* 1K Ohms Resistor (Brown, Black, Red, Gold)
